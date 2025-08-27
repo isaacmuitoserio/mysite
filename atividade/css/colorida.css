@@ -1,0 +1,50 @@
+table{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    background-color: white;
+    border: solid black 1px;
+    border-collapse: collapse;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+td{
+    border: solid black 1px;
+    height: 25px;
+}
+th{
+    border: solid rgb(0, 0, 0) 1px;
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+.escuro{
+    background-color: rgb(52, 80, 183);
+    color: white;
+}
+.azul{
+    background-color: blue;
+    color: white;
+}
+.rosa{
+    background-color: rgb(255, 86, 142);
+    color: white;
+}
+.zulzin{
+    color: white;
+    background-color: rgb(0, 115, 255);
+}
+.marelo{
+    background-color: rgb(255, 255, 79);
+}
+.roxin{
+    background-color: blueviolet;
+    color: white;
+}
+#a{
+    height: 30px;
+}
+td:hover, th:hover{
+    background-color: rgb(204, 109, 109);
+    color: black;
+}

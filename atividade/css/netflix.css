@@ -1,0 +1,13 @@
+table{
+    text-align: center;
+    width: 100%;
+    margin: auto;
+}
+body{
+    background-color: black;
+    color: white;
+}
+img{
+    width: 200px;
+    height: auto;
+}
